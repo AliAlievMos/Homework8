@@ -3,9 +3,6 @@ import java.util.Scanner;
 
 public class Item {
     public static HashMap<String, String> nItem;
-//    static String name;
-//    String cost;
-//    String quantity;
 
 
     public static void addItem() {
